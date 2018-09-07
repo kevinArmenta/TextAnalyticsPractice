@@ -1,0 +1,2 @@
+# TextAnalyticsPractice
+Practicing text analytics
